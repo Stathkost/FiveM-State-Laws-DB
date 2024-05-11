@@ -10,9 +10,9 @@ This database contains local state laws for roleplaying in FiveM, formatted in S
 ## Usage
 To use this database, import the `laws.sql` file into your SQL database management system. Here are basic instructions for importing this file into a MySQL database:
 
-\`\`\`bash
+```bash
 mysql -u username -p database_name < laws.sql
-\`\`\`
+```
 Replace `username` with your MySQL username and `database_name` with the name of your database.
 
 ## License
